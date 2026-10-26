@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plugin251428</string>
+    <string name="accessibility_label">Plugin251428 game trigger and UI reader</string>
+    <string name="accessibility_description">Reads the foreground game UI to find skip and continue buttons, performs taps and swipes, and observes volume key double presses. No data leaves the device.</string>
+    <string name="notification_channel">Game automation</string>
+    <string name="notification_armed">Armed: double volume-up starts, double volume-down stops</string>
+    <string name="notification_playing">Playing: double volume-down stops</string>
+</resources>
